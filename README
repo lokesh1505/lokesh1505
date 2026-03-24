@@ -1,38 +1,79 @@
 # Hi, I'm Lokesh Goel 👋
 
-💻 C++ Software Engineer | Systems Programming | Telecom | DSA Enthusiast
+💻 Embedded Software Engineer | C/C++ | Systems Programming | Telecom
 
 ---
 
 ## 🚀 About Me
-- 🔹 Software Developer with 2+ years of experience
-- 🔹 Strong in C++, Data Structures, and Multithreading
-- 🔹 Working on telecom protocols (IMS, VoNR, LTE/5G)
-- 🔹 Passionate about low-level system design and performance optimization
+- 🔹 Software Engineer with 2+ years of experience in embedded and telecom systems
+- 🔹 Strong expertise in **C/C++ systems programming, multithreading, and low-level debugging**
+- 🔹 Experience working on **5G/LTE, IMS, VoNR, and SIP protocol stacks**
+- 🔹 Passionate about **performance optimization, memory management, and system design**
+- 🔹 Hands-on experience with **Linux internals and embedded environments**
 
 ---
 
-## 🔧 Tech Stack
-- **Languages:** C++, Python, Java
-- **Core CS:** Data Structures, Algorithms, OOP, Multithreading
-- **Systems:** Linux, IPC, Socket Programming
-- **Networking:** TCP/IP, SIP, IMS, VoNR, LTE/5G
-- **Tools:** Git, Jenkins, Wireshark, GDB
+## 🔧 Technical Skills
+
+### 🧠 Core Expertise
+- **Languages:** C, C++, Python
+- **Concepts:** Data Structures, Algorithms, OOP, Multithreading, Concurrency
+- **Design:** Object-Oriented Design, Design Patterns
+
+### ⚙️ Systems & Embedded
+- Linux/Unix Systems Programming
+- Inter-Process Communication (Shared Memory, Pipes, Semaphores, Signals)
+- Socket Programming (TCP/UDP)
+- Memory Management & Debugging
+- Low-level system interaction (drivers, hardware interfaces)
+
+### 🌐 Networking & Protocols
+- TCP/IP, UDP
+- SIP, IMS, VoNR
+- LTE / 5G NR
+- SUPL (Location Services)
+
+### 🛠 Tools & Debugging
+- GDB (Debugging & Core Dump Analysis)
+- Wireshark (Packet Analysis)
+- QXDM (Protocol Logs)
+- Git, Jenkins
+- CMake / Makefile
+
+### 📜 Scripting
+- Python
+- Shell Scripting
 
 ---
 
 ## 📌 Current Focus
-- 📈 Daily DSA practice in C++
-- ⚡ Improving problem-solving and system design skills
-- 🛠 Building strong GitHub portfolio
+- ⚡ Strengthening **low-level system design and embedded concepts**
+- 📈 Daily **DSA practice in C++**
+- 🔍 Deep diving into **multithreading, synchronization, and performance tuning**
 
 ---
 
 ## 📂 Featured Project
-🔹 [Daily DSA in C++](https://github.com/your-username/daily-dsa-cpp)
-- Consistent problem solving
-- Clean and optimized solutions
-- Covers key interview topics
+
+### 🔹 Daily DSA in C++
+https://github.com/your-username/daily-dsa-cpp
+
+- Structured problem-solving in C++
+- Focus on STL, algorithms, and optimization
+- Consistent daily commits
+
+---
+
+## 🧪 What I Work With
+- Embedded Linux environments
+- Telecom protocol stacks
+- Multi-threaded C++ applications
+- System-level debugging and performance analysis
+
+---
+
+## 📊 GitHub Stats
+![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
 
 ---
 
@@ -41,4 +82,4 @@
 
 ---
 
-⭐ *Consistency is the key to mastery*
+⭐ *Building reliable, high-performance systems one layer at a time*
